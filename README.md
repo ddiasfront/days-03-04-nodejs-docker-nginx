@@ -5,6 +5,3 @@ https://github.com/b00giZm/docker-compose-nodejs-examples
 
 WITH THEIR CODE I WAS ABLE TO GET STARTED WITH A NODEJS APP RUNING ON A DOCKER CONTAINER AND WITH OTHER CONTAINER USING THE NGINX TO WATCH THIS APP ON MY LOCALHOST
 
-# day0304-node-docker-nginx
-# days-03-04-nodejs-docker-nginx
-# days-03-04-nodejs-docker-nginx
